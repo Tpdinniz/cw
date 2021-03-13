@@ -1,0 +1,2 @@
+# cw
+execute o .exe
